@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/JeremyMColegrove/my-blog/static/css/main.073c9b0a.css",
-    "main.js": "/JeremyMColegrove/my-blog/static/js/main.2200aebf.js",
-    "static/js/787.a361b86b.chunk.js": "/JeremyMColegrove/my-blog/static/js/787.a361b86b.chunk.js",
-    "static/media/logo.svg": "/JeremyMColegrove/my-blog/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/JeremyMColegrove/my-blog/index.html",
-    "main.073c9b0a.css.map": "/JeremyMColegrove/my-blog/static/css/main.073c9b0a.css.map",
-    "main.2200aebf.js.map": "/JeremyMColegrove/my-blog/static/js/main.2200aebf.js.map",
-    "787.a361b86b.chunk.js.map": "/JeremyMColegrove/my-blog/static/js/787.a361b86b.chunk.js.map"
+    "main.css": "/my-blog/static/css/main.073c9b0a.css",
+    "main.js": "/my-blog/static/js/main.88180584.js",
+    "static/js/787.a361b86b.chunk.js": "/my-blog/static/js/787.a361b86b.chunk.js",
+    "static/media/logo.svg": "/my-blog/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/my-blog/index.html",
+    "main.073c9b0a.css.map": "/my-blog/static/css/main.073c9b0a.css.map",
+    "main.88180584.js.map": "/my-blog/static/js/main.88180584.js.map",
+    "787.a361b86b.chunk.js.map": "/my-blog/static/js/787.a361b86b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.2200aebf.js"
+    "static/js/main.88180584.js"
   ]
 }
